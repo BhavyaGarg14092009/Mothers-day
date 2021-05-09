@@ -16,7 +16,12 @@ height: 60%;
     margin-right: auto; 
     width: 50%; }
 #para {
-    font-size: 20px;
+    font-size: 30px;
     color: darkblue;
     font-family: cursive;
+}
+#b{
+    width:200px;
+    height:50px;
+    background-color:yellow;
 }
